@@ -17,3 +17,46 @@
     text-align: center;
     margin: 15px 0;
   }
+
+  main form {
+    margin-right: 150px;
+    position: relative;
+    width: 80%;
+  }
+  
+  .data-form {
+    font-family: Mon;
+    position: relative;
+    display: block;
+  }
+  
+  .data-form h1 {
+    font-size: 18px;
+    color: #333;
+    margin: 15px 0;
+  }
+  
+  .data-form .campo {
+    margin: 10px 0;
+  }
+  
+  .data-form .campo label {
+    font-size: 12px;
+    color: #4f4f4f;
+    margin: 10px 0;
+    position: relative;
+    display: block;
+  }
+  
+  .data-form .campo .input-field {
+    position: relative;
+  }
+  
+  .data-form .campo .input-field input {
+    border: 1px solid #828282;
+    padding: 8px 5px 8px 35px;
+    color: #828282;
+    font-size: 14px;
+    border-radius: 5px;
+    width: 100%;
+  }
